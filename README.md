@@ -1,9 +1,7 @@
 # Project 4 Udacity DAND term 1
 
 ## Prerequisites 
-1. python 3
-	a. jupyter notebook
-	b. pandas
+1. python3
 
 ## To Edit
 1. Clone or download 
